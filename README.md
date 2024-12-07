@@ -10,7 +10,7 @@
 
 # Copy to github pages dir
 ```
-> cp -r public ../docs
+> cp -r public/* ../docs
 ```
 
 then normal git add, commit, push to github.
