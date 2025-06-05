@@ -1,5 +1,9 @@
 
+# Editing
 
+the `_index.md` file in the `bluestonenumbers` directory is the main content.
+
+Images are added to `bluestonehousenumbers/static/images` directory
 
 # Generate site:
 
